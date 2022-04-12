@@ -1,0 +1,899 @@
+v2
+/home/dmelton/Projects/config-system/resources/temp
+Scanning 595 packages...
+"bind9-libs:amd64" -> "bind9-libs"
+"dconf-gsettings-backend:amd64" -> "dconf-gsettings-backend"
+"gcc-10-base:amd64" -> "gcc-10-base"
+"gir1.2-glib-2.0:amd64" -> "gir1.2-glib-2.0"
+"glib-networking:amd64" -> "glib-networking"
+"libaccountsservice0:amd64" -> "libaccountsservice0"
+"libacl1:amd64" -> "libacl1"
+"libaio1:amd64" -> "libaio1"
+"libapparmor1:amd64" -> "libapparmor1"
+"libappstream4:amd64" -> "libappstream4"
+"libapt-pkg6.0:amd64" -> "libapt-pkg6.0"
+"libarchive13:amd64" -> "libarchive13"
+"libargon2-1:amd64" -> "libargon2-1"
+"libasn1-8-heimdal:amd64" -> "libasn1-8-heimdal"
+"libasound2:amd64" -> "libasound2"
+"libassuan0:amd64" -> "libassuan0"
+"libatasmart4:amd64" -> "libatasmart4"
+"libatm1:amd64" -> "libatm1"
+"libattr1:amd64" -> "libattr1"
+"libaudit1:amd64" -> "libaudit1"
+"libblkid1:amd64" -> "libblkid1"
+"libblockdev-crypto2:amd64" -> "libblockdev-crypto2"
+"libblockdev-fs2:amd64" -> "libblockdev-fs2"
+"libblockdev-loop2:amd64" -> "libblockdev-loop2"
+"libblockdev-part-err2:amd64" -> "libblockdev-part-err2"
+"libblockdev-part2:amd64" -> "libblockdev-part2"
+"libblockdev-swap2:amd64" -> "libblockdev-swap2"
+"libblockdev-utils2:amd64" -> "libblockdev-utils2"
+"libblockdev2:amd64" -> "libblockdev2"
+"libbrotli1:amd64" -> "libbrotli1"
+"libbsd0:amd64" -> "libbsd0"
+"libbz2-1.0:amd64" -> "libbz2-1.0"
+"libc6:amd64" -> "libc6"
+"libcanberra0:amd64" -> "libcanberra0"
+"libcap-ng0:amd64" -> "libcap-ng0"
+"libcap2:amd64" -> "libcap2"
+"libcbor0.6:amd64" -> "libcbor0.6"
+"libcom-err2:amd64" -> "libcom-err2"
+"libcrypt1:amd64" -> "libcrypt1"
+"libcryptsetup12:amd64" -> "libcryptsetup12"
+"libcurl3-gnutls:amd64" -> "libcurl3-gnutls"
+"libcurl4:amd64" -> "libcurl4"
+"libdb5.3:amd64" -> "libdb5.3"
+"libdbus-1-3:amd64" -> "libdbus-1-3"
+"libdbus-glib-1-2:amd64" -> "libdbus-glib-1-2"
+"libdconf1:amd64" -> "libdconf1"
+"libdebconfclient0:amd64" -> "libdebconfclient0"
+"libdevmapper-event1.02.1:amd64" -> "libdevmapper-event1.02.1"
+"libdevmapper1.02.1:amd64" -> "libdevmapper1.02.1"
+"libdrm2:amd64" -> "libdrm2"
+"libeatmydata1:amd64" -> "libeatmydata1"
+"libedit2:amd64" -> "libedit2"
+"libefiboot1:amd64" -> "libefiboot1"
+"libefivar1:amd64" -> "libefivar1"
+"libelf1:amd64" -> "libelf1"
+"libestr0:amd64" -> "libestr0"
+"libevdev2:amd64" -> "libevdev2"
+"libevent-2.1-7:amd64" -> "libevent-2.1-7"
+"libexpat1:amd64" -> "libexpat1"
+"libext2fs2:amd64" -> "libext2fs2"
+"libfastjson4:amd64" -> "libfastjson4"
+"libfdisk1:amd64" -> "libfdisk1"
+"libffi7:amd64" -> "libffi7"
+"libfido2-1:amd64" -> "libfido2-1"
+"libfl2:amd64" -> "libfl2"
+"libfreetype6:amd64" -> "libfreetype6"
+"libfribidi0:amd64" -> "libfribidi0"
+"libfuse2:amd64" -> "libfuse2"
+"libfwupd2:amd64" -> "libfwupd2"
+"libfwupdplugin1:amd64" -> "libfwupdplugin1"
+"libgcab-1.0-0:amd64" -> "libgcab-1.0-0"
+"libgcc-s1:amd64" -> "libgcc-s1"
+"libgcrypt20:amd64" -> "libgcrypt20"
+"libgdbm-compat4:amd64" -> "libgdbm-compat4"
+"libgdbm6:amd64" -> "libgdbm6"
+"libgirepository-1.0-1:amd64" -> "libgirepository-1.0-1"
+"libglib2.0-0:amd64" -> "libglib2.0-0"
+"libgmp10:amd64" -> "libgmp10"
+"libgnutls30:amd64" -> "libgnutls30"
+"libgpg-error0:amd64" -> "libgpg-error0"
+"libgpgme11:amd64" -> "libgpgme11"
+"libgpm2:amd64" -> "libgpm2"
+"libgssapi-krb5-2:amd64" -> "libgssapi-krb5-2"
+"libgssapi3-heimdal:amd64" -> "libgssapi3-heimdal"
+"libgstreamer1.0-0:amd64" -> "libgstreamer1.0-0"
+"libgudev-1.0-0:amd64" -> "libgudev-1.0-0"
+"libgusb2:amd64" -> "libgusb2"
+"libhcrypto4-heimdal:amd64" -> "libhcrypto4-heimdal"
+"libheimbase1-heimdal:amd64" -> "libheimbase1-heimdal"
+"libheimntlm0-heimdal:amd64" -> "libheimntlm0-heimdal"
+"libhogweed5:amd64" -> "libhogweed5"
+"libhx509-5-heimdal:amd64" -> "libhx509-5-heimdal"
+"libicu66:amd64" -> "libicu66"
+"libidn2-0:amd64" -> "libidn2-0"
+"libimobiledevice6:amd64" -> "libimobiledevice6"
+"libip4tc2:amd64" -> "libip4tc2"
+"libip6tc2:amd64" -> "libip6tc2"
+"libisc-export1105:amd64" -> "libisc-export1105"
+"libisns0:amd64" -> "libisns0"
+"libjcat1:amd64" -> "libjcat1"
+"libjson-c4:amd64" -> "libjson-c4"
+"libjson-glib-1.0-0:amd64" -> "libjson-glib-1.0-0"
+"libk5crypto3:amd64" -> "libk5crypto3"
+"libkeyutils1:amd64" -> "libkeyutils1"
+"libklibc:amd64" -> "libklibc"
+"libkmod2:amd64" -> "libkmod2"
+"libkrb5-26-heimdal:amd64" -> "libkrb5-26-heimdal"
+"libkrb5-3:amd64" -> "libkrb5-3"
+"libkrb5support0:amd64" -> "libkrb5support0"
+"libksba8:amd64" -> "libksba8"
+"libldap-2.4-2:amd64" -> "libldap-2.4-2"
+"liblmdb0:amd64" -> "liblmdb0"
+"libltdl7:amd64" -> "libltdl7"
+"liblvm2cmd2.03:amd64" -> "liblvm2cmd2.03"
+"liblz4-1:amd64" -> "liblz4-1"
+"liblzma5:amd64" -> "liblzma5"
+"liblzo2-2:amd64" -> "liblzo2-2"
+"libmagic1:amd64" -> "libmagic1"
+"libmaxminddb0:amd64" -> "libmaxminddb0"
+"libmnl0:amd64" -> "libmnl0"
+"libmount1:amd64" -> "libmount1"
+"libmpdec2:amd64" -> "libmpdec2"
+"libmpfr6:amd64" -> "libmpfr6"
+"libmspack0:amd64" -> "libmspack0"
+"libncurses6:amd64" -> "libncurses6"
+"libncursesw6:amd64" -> "libncursesw6"
+"libnetfilter-conntrack3:amd64" -> "libnetfilter-conntrack3"
+"libnetplan0:amd64" -> "libnetplan0"
+"libnettle7:amd64" -> "libnettle7"
+"libnewt0.52:amd64" -> "libnewt0.52"
+"libnfnetlink0:amd64" -> "libnfnetlink0"
+"libnftnl11:amd64" -> "libnftnl11"
+"libnghttp2-14:amd64" -> "libnghttp2-14"
+"libnl-3-200:amd64" -> "libnl-3-200"
+"libnl-genl-3-200:amd64" -> "libnl-genl-3-200"
+"libnpth0:amd64" -> "libnpth0"
+"libnspr4:amd64" -> "libnspr4"
+"libnss-systemd:amd64" -> "libnss-systemd"
+"libnss3:amd64" -> "libnss3"
+"libnuma1:amd64" -> "libnuma1"
+"libogg0:amd64" -> "libogg0"
+"libp11-kit0:amd64" -> "libp11-kit0"
+"libpackagekit-glib2-18:amd64" -> "libpackagekit-glib2-18"
+"libpam-cap:amd64" -> "libpam-cap"
+"libpam-modules:amd64" -> "libpam-modules"
+"libpam-systemd:amd64" -> "libpam-systemd"
+"libpam0g:amd64" -> "libpam0g"
+"libparted-fs-resize0:amd64" -> "libparted-fs-resize0"
+"libparted2:amd64" -> "libparted2"
+"libpcap0.8:amd64" -> "libpcap0.8"
+"libpci3:amd64" -> "libpci3"
+"libpcre2-8-0:amd64" -> "libpcre2-8-0"
+"libpcre3:amd64" -> "libpcre3"
+"libperl5.30:amd64" -> "libperl5.30"
+"libpipeline1:amd64" -> "libpipeline1"
+"libplist3:amd64" -> "libplist3"
+"libplymouth5:amd64" -> "libplymouth5"
+"libpng16-16:amd64" -> "libpng16-16"
+"libpolkit-agent-1-0:amd64" -> "libpolkit-agent-1-0"
+"libpolkit-gobject-1-0:amd64" -> "libpolkit-gobject-1-0"
+"libpopt0:amd64" -> "libpopt0"
+"libprocps8:amd64" -> "libprocps8"
+"libproxy1v5:amd64" -> "libproxy1v5"
+"libpsl5:amd64" -> "libpsl5"
+"libpython3-stdlib:amd64" -> "libpython3-stdlib"
+"libpython3.8:amd64" -> "libpython3.8"
+"libpython3.8-minimal:amd64" -> "libpython3.8-minimal"
+"libpython3.8-stdlib:amd64" -> "libpython3.8-stdlib"
+"libreadline5:amd64" -> "libreadline5"
+"libreadline8:amd64" -> "libreadline8"
+"libroken18-heimdal:amd64" -> "libroken18-heimdal"
+"librtmp1:amd64" -> "librtmp1"
+"libsasl2-2:amd64" -> "libsasl2-2"
+"libsasl2-modules:amd64" -> "libsasl2-modules"
+"libsasl2-modules-db:amd64" -> "libsasl2-modules-db"
+"libseccomp2:amd64" -> "libseccomp2"
+"libselinux1:amd64" -> "libselinux1"
+"libsemanage1:amd64" -> "libsemanage1"
+"libsepol1:amd64" -> "libsepol1"
+"libsigsegv2:amd64" -> "libsigsegv2"
+"libslang2:amd64" -> "libslang2"
+"libsmartcols1:amd64" -> "libsmartcols1"
+"libsodium23:amd64" -> "libsodium23"
+"libsoup2.4-1:amd64" -> "libsoup2.4-1"
+"libsqlite3-0:amd64" -> "libsqlite3-0"
+"libss2:amd64" -> "libss2"
+"libssh-4:amd64" -> "libssh-4"
+"libssl1.1:amd64" -> "libssl1.1"
+"libstdc++6:amd64" -> "libstdc++6"
+"libstemmer0d:amd64" -> "libstemmer0d"
+"libsystemd0:amd64" -> "libsystemd0"
+"libtasn1-6:amd64" -> "libtasn1-6"
+"libtdb1:amd64" -> "libtdb1"
+"libtinfo6:amd64" -> "libtinfo6"
+"libuchardet0:amd64" -> "libuchardet0"
+"libudev1:amd64" -> "libudev1"
+"libudisks2-0:amd64" -> "libudisks2-0"
+"libunistring2:amd64" -> "libunistring2"
+"libunwind8:amd64" -> "libunwind8"
+"libupower-glib3:amd64" -> "libupower-glib3"
+"liburcu6:amd64" -> "liburcu6"
+"libusb-1.0-0:amd64" -> "libusb-1.0-0"
+"libusbmuxd6:amd64" -> "libusbmuxd6"
+"libutempter0:amd64" -> "libutempter0"
+"libuuid1:amd64" -> "libuuid1"
+"libuv1:amd64" -> "libuv1"
+"libvorbis0a:amd64" -> "libvorbis0a"
+"libvorbisfile3:amd64" -> "libvorbisfile3"
+"libwind0-heimdal:amd64" -> "libwind0-heimdal"
+"libwrap0:amd64" -> "libwrap0"
+"libx11-6:amd64" -> "libx11-6"
+"libxau6:amd64" -> "libxau6"
+"libxcb1:amd64" -> "libxcb1"
+"libxdmcp6:amd64" -> "libxdmcp6"
+"libxext6:amd64" -> "libxext6"
+"libxml2:amd64" -> "libxml2"
+"libxmlb1:amd64" -> "libxmlb1"
+"libxmlsec1:amd64" -> "libxmlsec1"
+"libxmlsec1-openssl:amd64" -> "libxmlsec1-openssl"
+"libxmuu1:amd64" -> "libxmuu1"
+"libxslt1.1:amd64" -> "libxslt1.1"
+"libxtables12:amd64" -> "libxtables12"
+"libyaml-0-2:amd64" -> "libyaml-0-2"
+"libzstd1:amd64" -> "libzstd1"
+"python3-gdbm:amd64" -> "python3-gdbm"
+"python3-newt:amd64" -> "python3-newt"
+"python3-pyrsistent:amd64" -> "python3-pyrsistent"
+"python3-twisted-bin:amd64" -> "python3-twisted-bin"
+"zlib1g:amd64" -> "zlib1g"
+
+
+Getting dependencies...
+595 left -> kmod
+590 left -> python3-apport
+583 left -> libreadline5
+581 left -> iso-codes
+581 left -> console-setup-linux
+577 left -> python3-update-manager
+574 left -> pinentry-curses
+571 left -> libnl-genl-3-200
+570 left -> xxd
+569 left -> snapd
+558 left -> python3-distro-info
+557 left -> networkd-dispatcher
+553 left -> crda
+550 left -> libmagic1
+548 left -> libblockdev-utils2
+547 left -> xdg-user-dirs
+547 left -> python3-netifaces
+547 left -> python3-distupgrade
+544 left -> libdconf1
+544 left -> debianutils
+544 left -> ncurses-base
+543 left -> libupower-glib3
+543 left -> libss2
+542 left -> popularity-contest
+540 left -> perl-modules-5.30
+538 left -> mime-support
+538 left -> libnspr4
+538 left -> ubuntu-keyring
+538 left -> libpsl5
+536 left -> bolt
+535 left -> libsystemd0
+533 left -> libhx509-5-heimdal
+528 left -> libappstream4
+523 left -> cron
+519 left -> python3-urllib3
+518 left -> python3-secretstorage
+517 left -> libxmlb1
+517 left -> libsasl2-modules-db
+516 left -> libfastjson4
+516 left -> python3-service-identity
+513 left -> packagekit-tools
+511 left -> init-system-helpers
+510 left -> gsettings-desktop-schemas
+509 left -> gpgv
+509 left -> dmsetup
+508 left -> os-prober
+506 left -> libreadline8
+506 left -> libnuma1
+506 left -> libefivar1
+506 left -> libcurl4
+499 left -> python3-six
+499 left -> python3-incremental
+499 left -> mawk
+499 left -> lxd-agent-loader
+499 left -> linux-generic
+497 left -> linux-firmware
+497 left -> libtdb1
+497 left -> python3-software-properties
+495 left -> python3-keyring
+493 left -> netcat-openbsd
+492 left -> mdadm
+491 left -> libuchardet0
+489 left -> libfwupd2
+486 left -> systemd-timesyncd
+486 left -> openssh-server
+477 left -> libgssapi-krb5-2
+475 left -> libargon2-1
+475 left -> cloud-init
+462 left -> cloud-guest-utils
+460 left -> python3-wadllib
+458 left -> python3-automat
+458 left -> libpcre2-8-0
+458 left -> libblockdev2
+457 left -> cpio
+457 left -> libsmartcols1
+457 left -> libpcre3
+457 left -> libparted-fs-resize0
+456 left -> libltdl7
+456 left -> libgpg-error0
+456 left -> libfuse2
+456 left -> python3-distro
+456 left -> libwrap0
+456 left -> bind9-dnsutils
+453 left -> pci.ids
+452 left -> libpopt0
+452 left -> libheimntlm0-heimdal
+451 left -> dconf-service
+450 left -> alsa-ucm-conf
+450 left -> python3-debian
+449 left -> perl-base
+449 left -> libzstd1
+449 left -> libudisks2-0
+449 left -> libnpth0
+449 left -> libnetfilter-conntrack3
+447 left -> libgudev-1.0-0
+447 left -> libestr0
+447 left -> libblockdev-swap2
+446 left -> ethtool
+446 left -> dirmngr
+442 left -> ubuntu-release-upgrader-core
+442 left -> sg3-utils-udev
+440 left -> libnss3
+438 left -> libblkid1
+438 left -> gpgconf
+436 left -> thermald
+432 left -> python3-yaml
+432 left -> python3-lazr.uri
+432 left -> libvorbis0a
+431 left -> libseccomp2
+431 left -> libffi7
+431 left -> sound-theme-freedesktop
+431 left -> gpg-wks-server
+430 left -> dbus
+427 left -> util-linux
+421 left -> linux-headers-5.4.0-90-generic
+419 left -> libpolkit-agent-1-0
+419 left -> libevent-2.1-7
+419 left -> libxslt1.1
+419 left -> ubuntu-minimal
+399 left -> systemd
+392 left -> python3-chardet
+392 left -> python3
+389 left -> motd-news-config
+388 left -> libkrb5-26-heimdal
+387 left -> libblockdev-crypto2
+385 left -> isc-dhcp-common
+385 left -> bsdmainutils
+384 left -> bind9-libs
+381 left -> plymouth
+379 left -> libglib2.0-data
+379 left -> coreutils
+378 left -> bash
+378 left -> thin-provisioning-tools
+377 left -> python3-cffi-backend
+376 left -> libpython3-stdlib
+375 left -> bzip2
+375 left -> python3-json-pointer
+375 left -> python3-certifi
+375 left -> packagekit
+370 left -> libnl-3-200
+370 left -> libncurses6
+370 left -> libapparmor1
+370 left -> iproute2
+368 left -> libxmuu1
+367 left -> fuse
+366 left -> libsmbios-c2
+366 left -> libprocps8
+366 left -> libasound2-data
+365 left -> curl
+364 left -> libpcap0.8
+364 left -> liblvm2cmd2.03
+363 left -> libk5crypto3
+363 left -> libip6tc2
+363 left -> screen
+362 left -> python-apt-common
+362 left -> grep
+360 left -> dash
+360 left -> python3-blinker
+360 left -> multipath-tools
+357 left -> libpam-cap
+357 left -> liblzma5
+357 left -> krb5-locales
+357 left -> init
+356 left -> alsa-topology-conf
+355 left -> python3-minimal
+354 left -> linux-headers-generic
+354 left -> libstdc++6
+353 left -> libblockdev-fs2
+351 left -> git-man
+350 left -> bc
+350 left -> whiptail
+348 left -> python3-gdbm
+347 left -> libexpat1
+347 left -> debconf-i18n
+343 left -> python3-lazr.restfulclient
+340 left -> libutempter0
+340 left -> less
+340 left -> vim-common
+339 left -> plymouth-theme-ubuntu-text
+338 left -> libvolume-key1
+337 left -> libkeyutils1
+337 left -> libicu66
+337 left -> libatasmart4
+337 left -> grub2-common
+334 left -> gdisk
+334 left -> python3-lib2to3
+334 left -> lsb-release
+334 left -> libuuid1
+334 left -> libjson-c4
+334 left -> python3-jsonpatch
+333 left -> libroken18-heimdal
+333 left -> libsasl2-2
+332 left -> libjson-glib-1.0-0
+331 left -> python3-twisted-bin
+331 left -> python3-ptyprocess
+331 left -> python3-problem-report
+331 left -> passwd
+330 left -> libbrotli1
+330 left -> libasn1-8-heimdal
+330 left -> gpg-agent
+329 left -> file
+328 left -> sosreport
+327 left -> libdebconfclient0
+327 left -> libarchive13
+325 left -> eject
+325 left -> busybox-static
+325 left -> xkb-data
+325 left -> python3-requests
+322 left -> python3-dbus
+322 left -> libpython3.8
+322 left -> libplist3
+322 left -> fwupd
+314 left -> ltrace
+314 left -> libip4tc2
+314 left -> libidn2-0
+314 left -> libgcab-1.0-0
+314 left -> at
+313 left -> xz-utils
+313 left -> python3-pkg-resources
+313 left -> python3-openssl
+313 left -> grub-common
+308 left -> gpg
+308 left -> python3-zope.interface
+308 left -> libtinfo6
+308 left -> libaudit1
+307 left -> python3-pyasn1-modules
+307 left -> manpages
+307 left -> libtss2-esys0
+306 left -> libjson-glib-1.0-common
+306 left -> libgusb2
+305 left -> libgcrypt20
+305 left -> libdrm2
+304 left -> finalrd
+304 left -> zlib1g
+304 left -> ubuntu-advantage-tools
+303 left -> lvm2
+301 left -> libsodium23
+301 left -> libnftnl11
+301 left -> libkrb5-3
+300 left -> dbus-user-session
+298 left -> cryptsetup
+296 left -> powermgmt-base
+296 left -> libpackagekit-glib2-18
+296 left -> libdevmapper-event1.02.1
+296 left -> libcom-err2
+296 left -> install-info
+296 left -> logrotate
+295 left -> libblockdev-part-err2
+295 left -> glib-networking
+291 left -> zerofree
+290 left -> publicsuffix
+290 left -> open-iscsi
+289 left -> netbase
+289 left -> iw
+289 left -> libfl2
+289 left -> glib-networking-common
+289 left -> openssh-sftp-server
+288 left -> nano
+288 left -> libusb-1.0-0
+288 left -> libaudit-common
+288 left -> intel-microcode
+287 left -> usbutils
+286 left -> shared-mime-info
+286 left -> python3-jsonschema
+283 left -> mount
+283 left -> libdevmapper1.02.1
+282 left -> gettext-base
+282 left -> dmeventd
+281 left -> telnet
+281 left -> libsgutils2-2
+281 left -> libelf1
+281 left -> tzdata
+281 left -> libatm1
+281 left -> gir1.2-packagekitglib-1.0
+281 left -> findutils
+281 left -> eatmydata
+280 left -> apparmor
+279 left -> update-manager-core
+278 left -> sysvinit-utils
+278 left -> python3-hamcrest
+278 left -> libsigsegv2
+278 left -> libsemanage1
+276 left -> librtmp1
+274 left -> libdb5.3
+274 left -> libcryptsetup12
+273 left -> gir1.2-glib-2.0
+272 left -> python3-oauthlib
+270 left -> lz4
+270 left -> libxmlsec1
+269 left -> libplymouth5
+268 left -> libperl5.30
+266 left -> libgdbm-compat4
+266 left -> libefiboot1
+266 left -> cloud-initramfs-copymods
+266 left -> logsave
+266 left -> libssl1.1
+266 left -> libfwupdplugin1
+264 left -> kbd
+264 left -> initramfs-tools-bin
+264 left -> gcc-10-base
+264 left -> gawk
+262 left -> python3-configobj
+262 left -> linux-headers-5.4.0-90
+261 left -> libtasn1-6
+261 left -> libgirepository-1.0-1
+261 left -> libaio1
+261 left -> iputils-tracepath
+261 left -> python3-jinja2
+260 left -> python3-cryptography
+259 left -> libx11-6
+257 left -> libglib2.0-0
+257 left -> libblockdev-loop2
+257 left -> kpartx
+257 left -> tar
+257 left -> rsyslog
+255 left -> man-db
+252 left -> libgpgme11
+252 left -> ca-certificates
+251 left -> byobu
+248 left -> libstemmer0d
+248 left -> libsemanage-common
+248 left -> libpam0g
+248 left -> libfribidi0
+248 left -> python3-pyasn1
+248 left -> libselinux1
+248 left -> libassuan0
+248 left -> libaccountsservice0
+247 left -> wireless-regdb
+247 left -> libdbus-1-3
+247 left -> udev
+247 left -> python3-twisted
+239 left -> overlayroot
+238 left -> libnghttp2-14
+238 left -> iucode-tool
+238 left -> fonts-ubuntu-console
+238 left -> ubuntu-server
+216 left -> python3-pyrsistent
+216 left -> liblocale-gettext-perl
+216 left -> klibc-utils
+215 left -> isc-dhcp-client
+213 left -> gnupg
+208 left -> friendly-recovery
+208 left -> base-files
+207 left -> libogg0
+207 left -> grub-gfxpayload-lists
+207 left -> libxcb1
+205 left -> libmaxminddb0
+205 left -> tmux
+204 left -> libnettle7
+204 left -> libldap-2.4-2
+201 left -> irqbalance
+200 left -> grub-pc-bin
+200 left -> wget
+200 left -> libparted2
+199 left -> libfdisk1
+199 left -> bind9-host
+199 left -> apport-symptoms
+199 left -> libklibc
+199 left -> libgmp10
+199 left -> python3-jwt
+199 left -> python3-debconf
+199 left -> libssh-4
+199 left -> libmspack0
+199 left -> adduser
+199 left -> rsync
+199 left -> libusbmuxd6
+197 left -> e2fsprogs
+195 left -> patch
+195 left -> libudev1
+195 left -> libp11-kit0
+195 left -> libdns-export1109
+195 left -> libtext-wrapi18n-perl
+195 left -> libdbus-glib-1-2
+195 left -> cryptsetup-initramfs
+194 left -> python3-simplejson
+194 left -> python3-gi
+194 left -> openssh-client
+193 left -> libnewt0.52
+193 left -> libimobiledevice6
+191 left -> libnss-systemd
+191 left -> libcanberra0
+187 left -> upower
+186 left -> openssl
+186 left -> lsof
+186 left -> glib-networking-services
+186 left -> sg3-utils
+185 left -> python3-pexpect
+184 left -> psmisc
+184 left -> libmount1
+184 left -> libhcrypto4-heimdal
+184 left -> libevdev2
+184 left -> libcap-ng0
+184 left -> iputils-ping
+184 left -> hostname
+184 left -> gnupg-l10n
+184 left -> apt-utils
+184 left -> strace
+183 left -> sed
+183 left -> mtr-tiny
+182 left -> libisc-export1105
+182 left -> tcpdump
+181 left -> python3-more-itertools
+181 left -> ntfs-3g
+179 left -> time
+179 left -> software-properties-common
+176 left -> libfreetype6
+176 left -> libcbor0.6
+176 left -> libapt-pkg6.0
+176 left -> cryptsetup-run
+176 left -> policykit-1
+175 left -> netplan.io
+174 left -> libtext-iconv-perl
+174 left -> libpython3.8-minimal
+174 left -> libntfs-3g883
+174 left -> libmpdec2
+174 left -> libbsd0
+174 left -> python3-apt
+174 left -> login
+174 left -> libext2fs2
+174 left -> python3-pymacaroons
+173 left -> libisns0
+173 left -> gzip
+173 left -> dconf-gsettings-backend
+172 left -> ubuntu-standard
+148 left -> procps
+146 left -> libgdbm6
+146 left -> libblockdev-part2
+144 left -> initramfs-tools-core
+141 left -> uuid-runtime
+141 left -> ufw
+141 left -> readline-common
+141 left -> python3-colorama
+141 left -> libcrypt1
+141 left -> dpkg
+140 left -> libxmlsec1-openssl
+139 left -> libxdmcp6
+139 left -> libgstreamer1.0-0
+139 left -> debconf
+139 left -> ucf
+139 left -> python3-nacl
+138 left -> pollinate
+138 left -> libpipeline1
+138 left -> libdrm-common
+138 left -> libc-bin
+138 left -> base-passwd
+137 left -> python3-httplib2
+137 left -> perl
+136 left -> libncursesw6
+136 left -> libfido2-1
+135 left -> sbsigntool
+135 left -> libsasl2-modules
+135 left -> libmnl0
+135 left -> apport
+134 left -> sensible-utils
+134 left -> htop
+134 left -> update-notifier-common
+132 left -> squashfs-tools
+132 left -> lshw
+132 left -> libx11-data
+132 left -> busybox-initramfs
+132 left -> vim-tiny
+132 left -> pastebinit
+132 left -> libnetplan0
+132 left -> liblzo2-2
+132 left -> libasound2
+131 left -> fdisk
+130 left -> btrfs-progs
+130 left -> usbmuxd
+130 left -> python3-setuptools
+129 left -> python3-commandnotfound
+128 left -> linux-modules-5.4.0-90-generic
+128 left -> libpam-runtime
+128 left -> libkmod2
+128 left -> grub-pc
+125 left -> gpgsm
+125 left -> git
+123 left -> libvorbisfile3
+122 left -> libedit2
+122 left -> libcap2-bin
+122 left -> secureboot-db
+121 left -> linux-image-generic
+118 left -> linux-base
+118 left -> libxml2
+117 left -> libpolkit-gobject-1-0
+117 left -> libksba8
+117 left -> libc6
+117 left -> info
+117 left -> distro-info
+117 left -> sudo
+117 left -> libxau6
+117 left -> libtext-charwidth-perl
+117 left -> libpng16-16
+117 left -> liberror-perl
+117 left -> ed
+117 left -> apt
+117 left -> accountsservice
+116 left -> vim
+112 left -> python3-hyperlink
+112 left -> libmagic-mgc
+112 left -> libacl1
+112 left -> gpg-wks-client
+112 left -> dmidecode
+112 left -> diffutils
+112 left -> linux-modules-extra-5.4.0-90-generic
+110 left -> libhogweed5
+110 left -> libcap2
+110 left -> usb.ids
+110 left -> ssh-import-id
+110 left -> libgssapi3-heimdal
+109 left -> ftp
+109 left -> python3-launchpadlib
+107 left -> python3-constantly
+107 left -> libsqlite3-0
+107 left -> libpam-systemd
+107 left -> liblz4-1
+107 left -> libgpm2
+107 left -> libglib2.0-bin
+106 left -> cloud-initramfs-dyn-netconf
+106 left -> run-one
+106 left -> python3-requests-unixsocket
+106 left -> python3-zipp
+105 left -> libxtables12
+105 left -> python3-newt
+105 left -> python3-importlib-metadata
+104 left -> python3-click
+103 left -> parted
+103 left -> libwind0-heimdal
+103 left -> libnfnetlink0
+103 left -> libmpfr6
+103 left -> python3-distutils
+102 left -> python3-attr
+102 left -> lsb-base
+102 left -> locales
+101 left -> initramfs-tools
+99 left -> libcurl3-gnutls
+99 left -> hdparm
+99 left -> systemd-sysv
+99 left -> ncurses-bin
+99 left -> libbz2-1.0
+99 left -> libattr1
+99 left -> console-setup
+97 left -> xfsprogs
+97 left -> xauth
+95 left -> libldap-common
+95 left -> libkrb5support0
+95 left -> groff-base
+94 left -> dosfstools
+94 left -> pciutils
+93 left -> distro-info-data
+93 left -> python3-idna
+93 left -> ncurses-term
+92 left -> libxext6
+92 left -> libunistring2
+92 left -> libeatmydata1
+91 left -> language-selector-common
+91 left -> keyboard-configuration
+91 left -> bsdutils
+91 left -> vim-runtime
+91 left -> python3.8
+91 left -> libsepol1
+91 left -> libproxy1v5
+91 left -> libpam-modules-bin
+91 left -> gnupg-utils
+91 left -> libjcat1
+91 left -> iptables
+88 left -> udisks2
+81 left -> libpython3.8-stdlib
+79 left -> libheimbase1-heimdal
+79 left -> unattended-upgrades
+78 left -> python3-systemd
+78 left -> python3-markupsafe
+78 left -> python3-entrypoints
+78 left -> libuv1
+78 left -> libpam-modules
+77 left -> libgnutls30
+76 left -> libgcc-s1
+75 left -> tpm-udev
+75 left -> libyaml-0-2
+75 left -> libslang2
+75 left -> libpci3
+74 left -> python3.8-minimal
+74 left -> landscape-common
+72 left -> fwupd-signed
+71 left -> cryptsetup-bin
+71 left -> bash-completion
+71 left -> python3-serial
+71 left -> open-vm-tools
+69 left -> linux-image-5.4.0-90-generic
+68 left -> liburcu6
+68 left -> libunwind8
+68 left -> libsoup2.4-1
+67 left -> liblmdb0
+67 left -> command-not-found
+66 left -> bcache-tools
+66 left -> amd64-microcode
+
+
+@{pkg[#] Independent Packages
+networkd-dispatcher
+xdg-user-dirs
+bolt
+packagekit-tools
+os-prober
+lxd-agent-loader
+linux-generic
+cloud-init
+bind9-dnsutils
+thermald
+linux-headers-5.4.0-90-generic
+ubuntu-minimal
+libblockdev-crypto2
+isc-dhcp-common
+bash
+thin-provisioning-tools
+python3-cffi-backend
+grep
+dash
+libpam-cap
+krb5-locales
+alsa-topology-conf
+plymouth-theme-ubuntu-text
+manpages
+dbus-user-session
+powermgmt-base
+zerofree
+publicsuffix
+open-iscsi
+nano
+telnet
+libatm1
+findutils
+iputils-tracepath
+rsyslog
+libfribidi0
+irqbalance
+apport-symptoms
+libnss-systemd
+upower
+hostname
+mtr-tiny
+tcpdump
+ntfs-3g
+python3-pymacaroons
+gzip
+ubuntu-standard
+uuid-runtime
+ufw
+base-passwd
+libsasl2-modules
+pastebinit
+secureboot-db
+diffutils
+linux-modules-extra-5.4.0-90-generic
+ssh-import-id
+run-one
+python3-click
+ncurses-bin
+xauth
+ncurses-term
+unattended-upgrades
+python3-systemd
+landscape-common
+fwupd-signed
+command-not-found
